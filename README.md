@@ -1,1 +1,1 @@
-# Sensing-their-plasma-membrane-curvature-allows-migrating-cells-to-circumvent-obstacles
+#Supporting data for: "Sensing their plasma membrane curvature allows migrating cells to circumvent obstacles" by Ewa Sitarska, Silvia Dias Almeida, Marianne Sandvold Beckwith, Julian Stopp, Jakub Czuchnowski, Marc Siggel, Rita Roessner, Aline Tschanz, Christer Ejsing, Yannick Schwab, Jan Kosinski, Michael Sixt, Anna Kreshuk, Anna Erzberger and Alba Diz-Muñoz
